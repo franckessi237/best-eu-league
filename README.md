@@ -16,3 +16,8 @@ pip install numpy pandas scikit-learn beautifulsoup4 requests matplotlib seaborn
 ```
 
 # Demo
+<img align="right" alt="coding" width="400" src="https://github.com/franckessi237/best-eu-league/blob/main/demo1.png">
+<img align="right" alt="coding" width="400" src="https://github.com/franckessi237/best-eu-league/blob/main/demo2.png">
+<img align="right" alt="coding" width="400" src="https://github.com/franckessi237/best-eu-league/blob/main/demo3.png">
+<img align="right" alt="coding" width="400" src="https://github.com/franckessi237/best-eu-league/blob/main/demo4.png">
+<img align="right" alt="coding" width="400" src="https://github.com/franckessi237/best-eu-league/blob/main/demo5.png">
