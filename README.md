@@ -4,6 +4,7 @@ Only 4 leagues are available. Data for other seasons is not available on the off
 
 # Contributors
     - Franck Patrick ESSI TSONDO
+    - Khadija LOUKILI
 
 ## Prerequisites
 
